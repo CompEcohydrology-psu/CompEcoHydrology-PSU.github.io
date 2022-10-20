@@ -1,1 +1,1 @@
-This webiste is forked from different sources, especially from https://dossgollin-lab.github.io/
+This webiste is forked from different sources, mostly from https://dossgollin-lab.github.io/
